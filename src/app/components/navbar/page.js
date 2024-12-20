@@ -58,7 +58,7 @@ const Navbar = () => {
                   <img src="/user-1.png" className="w-full h-full" alt="avatar" />
                 </div>
 
-                <h3 className="mx-2 text-gray-700 dark:text-gray-200 lg:hidden">Murat Can Çelebi</h3>
+                <h3 className="mx-2 text-gray-700 dark:text-gray-700 lg:hidden">Murat Can Çelebi</h3>
               </button>
             </div>
           </div>
