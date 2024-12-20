@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-orange-200 shadow dark:bg-orange-800">
+    <footer className="bg-orange-200 shadow dark:bg-orange-300">
       <div className="container px-6 py-8 mx-auto">
         <div className="flex flex-col items-center text-center">
           <a href="#">
@@ -31,7 +31,7 @@ const Footer = () => {
               className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-300 dark:hover:text-blue-400"
               aria-label="Privacy"
             >
-              Kişisel Verilerin Korunması
+              KVKK
             </a>
 
             <a
