@@ -5,7 +5,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="relative sticky top-0 z-50 bg-orange-200 shadow dark:bg-orange-200">
+    <nav className="relative sticky top-0 z-50 bg-orange-200 shadow dark:bg-gray-100">
       <div className="container px-6 py-4 mx-auto">
         <div className="lg:flex lg:items-center lg:justify-between">
           <div className="flex items-center justify-between">
@@ -58,7 +58,7 @@ const Navbar = () => {
                   <img src="/user-1.png" className="w-full h-full" alt="avatar" />
                 </div>
 
-                <h3 className="mx-2 text-gray-700 dark:text-gray-200 lg:hidden">Murat Can Çelebi</h3>
+                <h3 className="mx-2 text-gray-700 dark:text-gray-700 lg:hidden">Murat Can Çelebi</h3>
               </button>
             </div>
           </div>
