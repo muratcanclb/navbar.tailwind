@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <footer className="bg-orange-200 shadow dark:bg-orange-300">
+    <footer className="bg-orange-200 shadow dark:bg-orange-200">
       <div className="container px-6 py-8 mx-auto">
         <div className="flex flex-col items-center text-center">
           <a href="#">
@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="flex flex-wrap justify-center mt-6 -mx-4">
             <a
               href="#"
-              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-300 dark:hover:text-blue-400"
+              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-600 dark:hover:text-orange-500"
               aria-label="About"
             >
               Hakkımızda
@@ -20,7 +20,7 @@ const Footer = () => {
 
             <a
               href="#"
-              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-300 dark:hover:text-blue-400"
+              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-600 dark:hover:text-blue-400"
               aria-label="Teams"
             >
               Gizlilik
@@ -28,7 +28,7 @@ const Footer = () => {
 
             <a
               href="#"
-              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-300 dark:hover:text-blue-400"
+              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-600 dark:hover:text-blue-400"
               aria-label="Privacy"
             >
               KVKK
@@ -36,7 +36,7 @@ const Footer = () => {
 
             <a
               href="#"
-              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-300 dark:hover:text-blue-400"
+              className="mx-4 text-sm text-gray-600 transition-colors duration-300 hover:text-orange-500 dark:text-gray-600 dark:hover:text-blue-400"
               aria-label="Cookies"
             >
              Kalite Politikası
@@ -47,14 +47,14 @@ const Footer = () => {
         <hr className="my-6 border-orange-300 md:my-10 dark:border-orange-700" />
 
         <div className="flex flex-col items-center sm:flex-row sm:justify-between">
-          <p className="text-sm text-gray-500 dark:text-gray-300">© Copyright 2024 muratcanclb</p>
+          <p className="text-sm text-gray-500 dark:text-gray-600">© Copyright 2024 muratcanclb</p>
 
           <div className="flex -mx-2">
 
             {/* Facebook Icon */}
             <a
               href="#"
-              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
+              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-600 hover:text-orange-500 dark:hover:text-blue-400"
               aria-label="Facebook"
             >
               <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -67,7 +67,7 @@ const Footer = () => {
             {/* Github Icon */}
             <a
               href="#"
-              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
+              className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-600 hover:text-orange-500 dark:hover:text-blue-400"
               aria-label="Github"
             >
               <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
