@@ -6,7 +6,7 @@
 Masaüstü Görünüm
 <img width="700px" height="500px" src="./public/ss_pc.png" />
 
-Mobil Görünüm
+Mobil Görünüm <br />
 <img width="400px" height="500px" src="./public/ss_mobile.png" />
 
 ## Getting Started
