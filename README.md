@@ -1,7 +1,7 @@
 # React & Tailwind
 
 # Hamburger Firması Sayfa Tasarımı
-<a href="https://navbar-tailwind-beta.vercel.app/" target="_blank">Ön İzleme</a>
+<a href="https://navbar-tailwind-git-main-murat-can-celebis-projects.vercel.app/" target="_blank">Ön İzleme</a>
 
 Masaüstü Görünüm
 <img width="700px" height="500px" src="./public/ss_pc.png" />
